@@ -1,0 +1,6 @@
+{
+  "python.analysis.reportMissingImports": false,
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.diagnosticMode": "workspace",
+  "python.analysis.autoSearchPaths": true
+}
